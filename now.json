@@ -1,0 +1,16 @@
+{
+	"env": {
+        "SF_GHOST_KEY": "@sf-ghost-key",
+        "SF_GHOST_URL": "@sf-ghost-url",
+        "SF_CLOUDINARY_KEY": "@sf-cloudinary-key",
+        "SF_CLOUDINARY_SECRET": "@sf-cloudinary-secret"
+    },
+    "build": {
+        "env": {
+            "SF_GHOST_KEY": "@sf-ghost-key",
+            "SF_GHOST_URL": "@sf-ghost-url",
+            "SF_CLOUDINARY_KEY": "@sf-cloudinary-key",
+            "SF_CLOUDINARY_SECRET": "@sf-cloudinary-secret"
+        }
+    }
+}
